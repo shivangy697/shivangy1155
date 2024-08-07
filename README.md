@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on data analysis projects, open-source contributions, and machine learning models.
 - 📫 How to reach me: [shivangy697@gmail.com](mailto:shivangy697@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a special place in my heart for Rajasthan's music and culture.
+- ⚡ Fun fact: I love exploring new technologies.
 
 ## Skills
 - **Programming Languages:** Python, SQL, R
